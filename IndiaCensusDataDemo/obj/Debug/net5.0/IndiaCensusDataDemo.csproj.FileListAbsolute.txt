@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\IndiaCensusDataDemo\IndiaCensusDataDemo\obj\Debug\net5.0\IndiaCensusDataDemo.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\IndiaCensusDataDemo\IndiaCensusDataDemo\obj\Debug\net5.0\IndiaCensusDataDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\IndiaCensusDataDemo\IndiaCensusDataDemo\obj\Debug\net5.0\IndiaCensusDataDemo.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\IndiaCensusDataDemo\IndiaCensusDataDemo\obj\Debug\net5.0\IndiaCensusDataDemo.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\IndiaCensusDataDemo\IndiaCensusDataDemo\obj\Debug\net5.0\IndiaCensusDataDemo.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\IndiaCensusDataDemo\IndiaCensusDataDemo\bin\Debug\net5.0\IndiaCensusDataDemo.exe
+C:\Users\Vishal\source\repos\IndiaCensusDataDemo\IndiaCensusDataDemo\bin\Debug\net5.0\IndiaCensusDataDemo.deps.json
+C:\Users\Vishal\source\repos\IndiaCensusDataDemo\IndiaCensusDataDemo\bin\Debug\net5.0\IndiaCensusDataDemo.runtimeconfig.json
+C:\Users\Vishal\source\repos\IndiaCensusDataDemo\IndiaCensusDataDemo\bin\Debug\net5.0\IndiaCensusDataDemo.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\IndiaCensusDataDemo\IndiaCensusDataDemo\bin\Debug\net5.0\IndiaCensusDataDemo.dll
+C:\Users\Vishal\source\repos\IndiaCensusDataDemo\IndiaCensusDataDemo\bin\Debug\net5.0\ref\IndiaCensusDataDemo.dll
+C:\Users\Vishal\source\repos\IndiaCensusDataDemo\IndiaCensusDataDemo\bin\Debug\net5.0\IndiaCensusDataDemo.pdb
+C:\Users\Vishal\source\repos\IndiaCensusDataDemo\IndiaCensusDataDemo\obj\Debug\net5.0\IndiaCensusDataDemo.dll
+C:\Users\Vishal\source\repos\IndiaCensusDataDemo\IndiaCensusDataDemo\obj\Debug\net5.0\ref\IndiaCensusDataDemo.dll
+C:\Users\Vishal\source\repos\IndiaCensusDataDemo\IndiaCensusDataDemo\obj\Debug\net5.0\IndiaCensusDataDemo.pdb
+C:\Users\Vishal\source\repos\IndiaCensusDataDemo\IndiaCensusDataDemo\obj\Debug\net5.0\IndiaCensusDataDemo.genruntimeconfig.cache
